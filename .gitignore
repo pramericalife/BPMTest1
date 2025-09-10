@@ -1,0 +1,10 @@
+# hidden dir
+/.*
+!/.gitignore
+
+
+/bin/
+**/target/
+*.jpage
+*.ucls
+*.backup
